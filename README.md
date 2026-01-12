@@ -41,6 +41,6 @@ Je conçois des **systèmes simples et scalables** pour répondre à des problé
 
 ### 🌐 Portfolio & Contact
 🔗 **[Visiter le portfolio complet](https://grllabportfolio.netlify.app)**
-📫 Me contacter : [rojaslefebvre.guilaume@gmail.com]
+📫 Me contacter : [cliquer ici](rojaslefebvre.guillaume@gmail.com)
 
 > *Le digital est un outil, l'usage est la priorité.*
