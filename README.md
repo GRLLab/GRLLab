@@ -1,5 +1,14 @@
 # 👋 Guillaume — GRLLab
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 🎯 **Concepteur de projets digitaux & outils web utiles**  
 💡 Web • Automatisation • Expérience utilisateur • Événementiel & formation
 
@@ -24,7 +33,7 @@ Je privilégie des projets **compréhensibles, documentés et réutilisables**, 
 
 **Web**
 - HTML / CSS / JavaScript
-- React / Next.js (selon les projets)
+- React / Next.js
 - Responsive design & accessibilité
 
 **Backend & data**
@@ -34,9 +43,9 @@ Je privilégie des projets **compréhensibles, documentés et réutilisables**, 
 
 **Outils & écosystème**
 - Git & GitHub
-- Netlify / déploiement continu
-- WordPress (custom, orienté performance)
-- Automatisation (Zapier / logiques no-code)
+- Netlify (CI / déploiement)
+- WordPress (custom & performance)
+- Automatisation (Zapier / no-code)
 
 ---
 
@@ -49,16 +58,15 @@ Je privilégie des projets **compréhensibles, documentés et réutilisables**, 
 
 Chaque projet contient :
 - un README clair
-- une description du problème résolu
+- le problème adressé
 - la stack utilisée
-- une démo ou capture quand c’est pertinent
+- une démo ou capture si pertinent
 
 ---
 
 ## 🌐 Portfolio
 
-👉 **Portfolio en ligne**  
-🔗 https://grllabportfolio.netlify.app
+🔗 **https://grllabportfolio.netlify.app**
 
 (Projets, contexte, objectifs et résultats)
 
@@ -71,5 +79,5 @@ Chaque projet contient :
 
 ---
 
-> 💬 *Je m’intéresse aux projets où le digital sert un usage clair :  
+> 💬 *Le digital est pour moi un outil au service d’un usage clair :  
 > gagner du temps, mieux organiser, mieux comprendre, mieux transmettre.*
