@@ -1,10 +1,6 @@
 # 👋 YO, C'EST GUILLAUME
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  CHEF DE PROJET DIGITAL QUI CODE SES PROPRES SOLUTIONS      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**CHEF DE PROJET DIGITAL QUI CODE SES PROPRES SOLUTIONS**
 
 ![Status](https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-00ff00?style=for-the-badge&labelColor=000000&color=00ff00)
 ![Location](https://img.shields.io/badge/📍-FRANCE-ff0066?style=for-the-badge&labelColor=000000)
@@ -31,22 +27,20 @@
 <td width="50%" valign="top">
 
 ### 🏗️ APPS MÉTIER
-```yaml
-Type: Solutions sur-mesure pour PME
-Stack: React + IA
+**Solutions sur-mesure pour PME**  
+Stack: React + IA  
 Impact: Zéro bullshit, que de l'utile
-```
+
 **Exemple** : App aromathérapie pour gérer stocks + base de données produits en temps réel
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AUTOMATISATIONS
-```yaml
-Type: Scripts qui font gagner du temps
-Stack: Python + APIs + No-code tools
+**Scripts qui font gagner du temps**  
+Stack: Python + APIs + No-code tools  
 Impact: -80% de tâches répétitives
-```
+
 **Exemple** : Automatisation complète de la gestion d'événements (200+ formations/an)
 
 </td>
@@ -55,22 +49,20 @@ Impact: -80% de tâches répétitives
 <td width="50%" valign="top">
 
 ### 🎨 UX PRAGMATIQUE
-```yaml
-Type: Interfaces pour vrais humains
-Stack: Design thinking + tests terrain
+**Interfaces pour vrais humains**  
+Stack: Design thinking + tests terrain  
 Impact: Taux satisfaction > 80%
-```
+
 **Exemple** : Dashboard KPIs retail pensé pour managers pressés
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧪 EXPÉRIMENTATIONS IA
-```yaml
-Type: Tests d'APIs, prompt engineering
-Stack: Claude, OpenAI, outils émergents
+**Tests d'APIs, prompt engineering**  
+Stack: Claude, OpenAI, outils émergents  
 Impact: Découvrir ce qui marche vraiment
-```
+
 **Exemple** : Ce portfolio co-créé avec une IA
 
 </td>
@@ -81,14 +73,7 @@ Impact: Découvrir ce qui marche vraiment
 
 ## 💪 MON POSITIONNEMENT (ET POURQUOI C'EST COOL)
 
-```
-┌─────────────────────────────────────────────────────┐
-│  PUR DEV          MOI          CHEF DE PROJET PUR   │
-│     ↓              ↓                    ↓            │
-│  Code parfait   Livraison      Specs parfaites      │
-│  mais hors-sol  pragmatique    mais non-tech        │
-└─────────────────────────────────────────────────────┘
-```
+**Je ne suis ni un pur dev, ni un chef de projet classique. Et c'est ma force.**
 
 ### 🎯 Ma zone de génie :
 - ✅ Je **comprends** les besoins métier (8 ans de terrain, pas de bullshit)
@@ -125,12 +110,11 @@ Impact: Découvrir ce qui marche vraiment
 
 ## 📊 STATS & ACTIVITÉ
 
-```ascii
-▓▓▓▓▓▓▓▓░░░░░░░░ Code Quality      : 60% (learning in public)
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Project Management: 95% (c'est mon dada)
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░ AI Prompting      : 80% (j'itère tous les jours)
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ Ship Fast         : 90% (deadlines = religion)
-```
+**Niveau actuel :**
+- Code Quality : 60% (learning in public)
+- Project Management : 95% (c'est mon dada)
+- AI Prompting : 80% (j'itère tous les jours)
+- Ship Fast : 90% (deadlines = religion)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=ffff00&border_color=ff0066&hide_border=false&border_radius=0)
 
@@ -145,14 +129,12 @@ Impact: Découvrir ce qui marche vraiment
 <td width="50%">
 
 ### 🧪 [Aromatherapy Stock App](https://github.com/GRLLab/aromatherapy-app)
-```
-┌─────────────────────────┐
-│ App métier complète     │
-│ • Gestion stocks        │
-│ • Base de données       │
-│ • Interface intuitive   │
-└─────────────────────────┘
-```
+
+**App métier complète**
+- Gestion stocks temps réel
+- Base de données interactive
+- Interface intuitive
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
@@ -160,14 +142,12 @@ Impact: Découvrir ce qui marche vraiment
 <td width="50%">
 
 ### 🎨 [Portfolio V2](https://github.com/GRLLab/portfolio)
-```
-┌─────────────────────────┐
-│ Co-créé avec Claude AI  │
-│ • Prompt engineering    │
-│ • Itérations rapides    │
-│ • Design moderne        │
-└─────────────────────────┘
-```
+
+**Co-créé avec Claude AI**
+- Prompt engineering avancé
+- Itérations rapides
+- Design moderne
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -177,14 +157,12 @@ Impact: Découvrir ce qui marche vraiment
 <td width="50%">
 
 ### 🤖 [AI Experiments Lab](https://github.com/GRLLab/ai-experiments)
-```
-┌─────────────────────────┐
-│ Tests & explorations IA │
-│ • APIs diverses         │
-│ • Prompts optimisés     │
-│ • Use cases concrets    │
-└─────────────────────────┘
-```
+
+**Tests & explorations IA**
+- APIs diverses
+- Prompts optimisés
+- Use cases concrets
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -192,14 +170,12 @@ Impact: Découvrir ce qui marche vraiment
 <td width="50%">
 
 ### ⚡ [Automation Scripts](https://github.com/GRLLab/automation-toolkit)
-```
-┌─────────────────────────┐
-│ Scripts qui sauvent     │
-│ • Python utilities      │
-│ • Bash automation       │
-│ • No-code workflows     │
-└─────────────────────────┘
-```
+
+**Scripts qui sauvent des heures**
+- Python utilities
+- Bash automation
+- No-code workflows
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -211,30 +187,19 @@ Impact: Découvrir ce qui marche vraiment
 
 ## 📚 EN CE MOMENT, J'APPRENDS
 
-```python
-current_focus = {
-    "tech": ["React avancé", "Python backend", "API design"],
-    "ai": ["Prompt engineering pro", "RAG systems", "AI agents"],
-    "business": ["Product management", "Growth hacking", "Data analytics"]
-}
+**Tech** : React avancé, Python backend, API design  
+**IA** : Prompt engineering pro, RAG systems, AI agents  
+**Business** : Product management, Growth hacking, Data analytics
 
-next_level = "Construire des produits IA qui résolvent de vrais problèmes"
-```
+**Next level** : Construire des produits IA qui résolvent de vrais problèmes
 
 ---
 
 ## 💡 PHILOSOPHIE DE TRAVAIL
 
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  "SHIP > PERFECT"                                     ║
-║                                                        ║
-║  Un produit utilisé avec des bugs                    ║
-║  > Un produit parfait que personne ne voit           ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+### **"SHIP > PERFECT"**
+
+Un produit utilisé avec des bugs > Un produit parfait que personne ne voit
 
 ### Mes principes :
 - 🎯 **User-first** : Si c'est pas utile, je ne le fais pas
@@ -283,16 +248,9 @@ next_level = "Construire des produits IA qui résolvent de vrais problèmes"
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  💬 "Les meilleurs projets naissent d'une conversation" ║
-║                                                          ║
-║     → Envoie un message, on verra ce qu'on peut        ║
-║        construire ensemble                              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+### 💬 "Les meilleurs projets naissent d'une conversation"
+
+**→ Envoie un message, on verra ce qu'on peut construire ensemble**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=ff0066&height=100&section=footer)
 
