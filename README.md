@@ -1,11 +1,18 @@
-<p align="center">GUILLAUME ROJAS-LEFEBVRE — GRLLab</p>
+# <p align="center">GUILLAUME ROJAS-LEFEBVRE — GRLLab</p>
+
 <p align="center"><strong>ARCHITECTE DE SOLUTIONS DIGITALES & EXPERT EN AUTOMATISATION IA</strong></p>
 
-<p align="center"> </p>
+<p align="center">
+![Status](https://img.shields.io/badge/STATUS-ARCHITECTING%20SOLUTIONS-00ff00?style=for-the-badge&labelColor=000000&color=00ff00)
+![Location](https://img.shields.io/badge/📍-FRANCE-ff0066?style=for-the-badge&labelColor=000000)
+![Expertise](https://img.shields.io/badge/EXPERTISE-TECH%20×%20STRATÉGIE-ffff00?style=for-the-badge&labelColor=000000)
+</p>
 
-🎯 MA VALEUR AJOUTÉE EN 3 LIGNES
-Diff
+---
 
+## 🎯 MA VALEUR AJOUTÉE EN 3 LIGNES
+
+```diff
 + 8 ANS D'EXPERTISE OPÉRATIONNELLE (Free, CHU) : Une vision pragmatique centrée sur le ROI métier.
 + LE CODE COMME LEVIER DE PRÉCISION : Concevoir des outils sur-mesure là où le standard échoue.
 + IA GÉNÉRATIVE & AGENTS : Intégration de l'IA pour accélérer radicalement les cycles de livraison.
@@ -65,4 +72,4 @@ Je réconcilie le besoin business et la réalité technique.
 
 </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0066&height=80&section=footer" /> </div>
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dff0066%26height%3D80%26section%3Dfooter" /> </div>
