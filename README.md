@@ -1,85 +1,46 @@
-# 👋 Guillaume — GRLLab
+# <p align="center">👋 Guillaume — GRLLab</p>
 
-![Stats de Guillaume](https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=GRLLab&layout=compact&theme=radical)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
-🎯 **Concepteur de projets digitaux & outils web utiles**  
-💡 Web • Automatisation • Expérience utilisateur • Événementiel & formation
-
-Je conçois des **solutions digitales simples, efficaces et maintenables**, avec une approche orientée **usage réel** :  
-sites web, outils internes, automatisations, dashboards et prototypes fonctionnels.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen">
+  <img src="https://img.shields.io/badge/Focus-UX%20%26%20Automation-blue">
+</p>
 
 ---
 
-## 🧭 Ce que je fais concrètement
+### 🧪 Le Laboratoire de Solutions Digitales
+Je conçois des **systèmes simples et scalables** pour répondre à des problématiques réelles. Mon objectif : transformer la complexité technique en interfaces fluides et processus automatisés.
 
-- 🔧 Développement et intégration web (front & logique applicative)
-- 🧩 Structuration de projets digitaux (idées → prototype → livraison)
-- 🔄 Automatisation de processus (formulaires, CRM, APIs, workflows)
-- 📊 Outils de suivi, dashboards et interfaces utiles
-- 🎓 Projets liés à la **formation**, à la **santé** et à l’**événementiel**
-
-Je privilégie des projets **compréhensibles, documentés et réutilisables**, plutôt que du code complexe sans valeur métier.
+- 🛠 **Web :** Développement d'outils sur mesure (React / Next.js / Node).
+- 🔄 **Automation :** Gain de productivité via APIs, Webhooks et solutions No-code.
+- 🎓 **Expertise :** Accompagnement spécifique pour la santé, la formation et l'événementiel.
 
 ---
 
-## 🛠️ Stack & outils
+### 🛠️ Stack Technique
 
-**Web**
-- HTML / CSS / JavaScript
-- React / Next.js
-- Responsive design & accessibilité
+**Frontend & UX**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & data**
-- Node.js
-- APIs & Webhooks
-- Bases de données (selon besoin)
-
-**Outils & écosystème**
-- Git & GitHub
-- Netlify (CI / déploiement)
-- WordPress (custom & performance)
-- Automatisation (Zapier / no-code)
+**Backend & Automation**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
-## 🚀 Projets clés
-
-➡️ Les dépôts épinglés ci-dessous représentent :
-- des **cas concrets**
-- des **preuves de compétences**
-- des **outils réellement exploitables**
-
-Chaque projet contient :
-- un README clair
-- le problème adressé
-- la stack utilisée
-- une démo ou capture si pertinent
+### 📊 Activité du Lab
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRLLab&layout=compact&theme=visual_studio_dark" />
+</p>
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **https://grllabportfolio.netlify.app**
-
-(Projets, contexte, objectifs et résultats)
+### 🚀 Projets Clés
+*Découvrez ci-dessous mes derniers travaux épinglés. Chaque dépôt est une solution documentée et prête à l'emploi.*
 
 ---
 
-## 🤝 Me contacter / suivre mon travail
+### 🌐 Portfolio & Contact
+🔗 **[Visiter le portfolio complet](https://grllabportfolio.netlify.app)**
+📫 Me contacter : [Lien vers ton mail ou LinkedIn]
 
-- 💼 Portfolio : https://grllabportfolio.netlify.app  
-- 💻 GitHub : https://github.com/GRLLab  
-
----
-
-> 💬 *Le digital est pour moi un outil au service d’un usage clair :  
-> gagner du temps, mieux organiser, mieux comprendre, mieux transmettre.*
+> *Le digital est un outil, l'usage est la priorité.*
