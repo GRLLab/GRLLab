@@ -1,75 +1,70 @@
-# <p align="center">GUILLAUME ROJAS-LEFEBVRE — GRLLab</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Regular&pause=1000&width=435&lines=%F0%9F%A7%AA+GRLLab+%E2%80%94+Laboratoire+Cr%C3%A9atif" alt="Typing SVG" /></a>
+</p>
 
-<p align="center"><strong>ARCHITECTE DE SOLUTIONS DIGITALES & EXPERT EN AUTOMATISATION IA</strong></p>
+### 🎨 Mon ADN Créatif
+> **Artisan numérique** entre design vintage, expérimentations technologiques et vie de famille. Je ne code pas tout, mais je construis tout.
 
 <p align="center">
-![Status](https://img.shields.io/badge/STATUS-ARCHITECTING%20SOLUTIONS-00ff00?style=for-the-badge&labelColor=000000&color=00ff00)
-![Location](https://img.shields.io/badge/📍-FRANCE-ff0066?style=for-the-badge&labelColor=000000)
-![Expertise](https://img.shields.io/badge/EXPERTISE-TECH%20×%20STRATÉGIE-ffff00?style=for-the-badge&labelColor=000000)
+  <img src="https://skillicons.dev/icons?i=adobe,figma,html,css,js,netlify,vscode,notion&theme=light" />
 </p>
 
 ---
 
-## 🎯 MA VALEUR AJOUTÉE EN 3 LIGNES
+### 🔬 Les Expérimentations du Lab
 
-```diff
-+ 8 ANS D'EXPERTISE OPÉRATIONNELLE (Free, CHU) : Une vision pragmatique centrée sur le ROI métier.
-+ LE CODE COMME LEVIER DE PRÉCISION : Concevoir des outils sur-mesure là où le standard échoue.
-+ IA GÉNÉRATIVE & AGENTS : Intégration de l'IA pour accélérer radicalement les cycles de livraison.
-Ma mission : Transformer des problématiques métiers complexes en applications fluides, documentées et automatisées.
+| Projet | Statut | Focus |
+| :--- | :--- | :--- |
+| **🌿 Aromathérapie** | `MVP terminée` | Dashboard tablette / UX Design / IA |
+| **🎲 JDR Enfants** | `En cours` | Game Design & Illustrations |
+| **🏠 Domotique** | `Recherche` | DAKBoard & Optimisation foyer |
+| **🖨️ Impression 3D** | `Exploration` | Modélisation & Optimisation |
 
-⚡ EXPERTISES DU LAB
-<table> <tr> <td width="50%" valign="top">
+---
 
-🏗️ SOLUTIONS MÉTIERS
-Développement sur-mesure pour PME Stack : React + Architecture Cloud Impact : Digitalisation de processus critiques.
+### 🌟 Zoom sur : Dashboard Aromathérapie
+*Le mariage du design et de la fonction.* - **Le défi :** Traduire un besoin métier complexe en une interface fluide.
+- **La méthode :** Cahier des charges précis + Design Pop + Intégration assistée par IA (Gemini).
 
-Exemple : App Aromathérapie pour la gestion de stocks complexes et suivi de recettes.
+[**Découvrir sur mon Portfolio →**](https://grlportfolio.netlify.app)
 
-</td> <td width="50%" valign="top">
+---
 
-🤖 INGÉNIERIE DE PROMPTS
-Automatisation intelligente & Workflows Stack : n8n + APIs OpenAI/Claude Impact : Réduction des tâches répétitives via des chaînes de prompts et agents IA.
+### 🛠️ Mes Alliés au Quotidien
+<p align="left">
+<img src="https://img.shields.io/badge/PROMPTING-Gemini%20|%20Claude%20|%20Perplexity-F4D738?style=flat-square&labelColor=000000" /> 
+<img src="https://img.shields.io/badge/FLOW-n8n%20|%20Cursor-BAFCA2?style=flat-square&labelColor=000000" />
+</p>
 
-</td> </tr> <tr> <td width="50%" valign="top">
+**Apprentissage en cours :**
+- **HTML/CSS** ![Progress](https://geps.dev/progress/65) 
+- **JavaScript**
+![Progress](https://geps.dev/progress/25)
+- **Prompt Engineering**
+![Progress](https://geps.dev/progress/80)
 
-🎨 UX STRATÉGIQUE
-Interfaces centrées sur l'utilisateur réel Méthode : Design Thinking & Néo-brutalisme Impact : Dashboards décisionnels (Retail/Santé) pensés pour l'efficacité.
+### 🎯 Quêtes en cours
+- [x] Lancer la MVP Aromathérapie
+- [ ] Configurer le DAKBoard du salon
+- [ ] Finir le chapitre 1 du JDR
+- [ ] Apprivoiser les sélecteurs CSS complexes
 
-</td> <td width="50%" valign="top">
+### 📬 Me joindre ou me suivre
 
-🧪 R&D IA (LAB)
-Exploration des technologies émergentes Outils : Prompt Engineering, RAG, Strapi Impact : Identification des meilleures pratiques pour une intégration IA utile.
+<a href="https://grlportfolio.netlify.app">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-white?style=for-the-badge&labelColor=F4D738&color=000000" />
+</a>
+<a href="TON_LIEN_LINKEDIN">
+  <img src="https://img.shields.io/badge/-LINKEDIN-white?style=for-the-badge&labelColor=F7A5C2&color=000000" />
+</a>
+<a href="mailto:TON_EMAIL">
+  <img src="https://img.shields.io/badge/-EMAIL-white?style=for-the-badge&labelColor=BAFCA2&color=000000" />
+</a>
 
-</td> </tr> </table>
+<p align="center">
+  <i>"L'optimisation est un voyage, pas une destination."</i>
+</p>
 
-💪 POSITIONNEMENT HYBRIDE
-Je réconcilie le besoin business et la réalité technique.
-
-✅ Analyse Métier : 8 ans de terrain pour comprendre les enjeux sans filtre technique.
-
-✅ Prototypage Agile : Utilisation de l'IA et de frameworks modernes pour des MVP fonctionnels rapides.
-
-✅ Pilotage de Projet : Une gestion de bout en bout, de la définition des besoins à la mise en production.
-
-🛠️ STACK TECHNIQUE
-💻 Développement & Web
-🤖 IA & Productivité
-📊 PERFORMANCE & ACTIVITÉ
-<p align="left"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=ffff00&border_color=ff0066&hide_border=false&border_radius=0" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRLLab&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&border_color=ff0066&hide_border=false&border_radius=0" /> </p>
-
-💡 PHILOSOPHIE DE TRAVAIL
-"L'usage réel prime sur la perfection théorique."
-
-🎯 User-First : La technologie est un moyen, le besoin métier est la boussole.
-
-⚡ Agilité Radicale : MVP → Feedback terrain → Itération rapide.
-
-📦 Focus Livraison : Un produit fonctionnel et utilisé a plus de valeur qu'un code parfait non déployé.
-
-🌐 ME CONTACTER
-<div align="center">
-
-</div>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dff0066%26height%3D80%26section%3Dfooter" /> </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GRLLab&label=LAB%20VISITORS&color=F4D738&style=flat-square" alt="Visitors" />
+</p>
