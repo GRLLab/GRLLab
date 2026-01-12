@@ -1,46 +1,51 @@
-# <p align="center">👋 Guillaume — GRLLab</p>
+# <p align="center">Guillaume Rojas-Lefebvre — GRLLab</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen">
-  <img src="https://img.shields.io/badge/Focus-UX%20%26%20Automation-blue">
+  <img src="https://img.shields.io/badge/STYLE-NÉO--BRUTALISME-yellow?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-USAGE%20RÉEL-brightgreen?style=for-the-badge&logoColor=black" />
 </p>
 
 ---
 
-### 🧪 Le Laboratoire de Solutions Digitales
-Je conçois des **systèmes simples et scalables** pour répondre à des problématiques réelles. Mon objectif : transformer la complexité technique en interfaces fluides et processus automatisés.
+## 🧪 Le Lab de Solutions Digitales
+> "Le digital est un outil au service d'un usage clair : gagner du temps, mieux organiser, mieux transmettre."
 
-- 🛠 **Web :** Développement d'outils sur mesure (React / Next.js / Node).
-- 🔄 **Automation :** Gain de productivité via APIs, Webhooks et solutions No-code.
-- 🎓 **Expertise :** Accompagnement spécifique pour la santé, la formation et l'événementiel.
+Je conçois des solutions **simples, efficaces et maintenables** avec une approche orientée vers l'expérience utilisateur (UX) et l'automatisation de processus métier.
 
----
-
-### 🛠️ Stack Technique
-
-**Frontend & UX**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Automation**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### 🎯 Domaines d'intervention
+- 🔧 **Développement Web** : Interfaces performantes et logique applicative.
+- 🧩 **Structuration** : Passage de l'idée au prototype fonctionnel.
+- 🔄 **Automation** : Optimisation de workflows (APIs, CRM, formulaires).
+- 🎓 **Secteurs** : Formation, Santé et Événementiel.
 
 ---
 
-### 📊 Activité du Lab
+## 🚀 Réalisations Clés (Issues du Portfolio)
+
+| Projet | Description | Focus Technique |
+| :--- | :--- | :--- |
+| **Solution Aromathérapie** | Gestion de stock complexe et suivi de recettes pour professionnels. | Architecture Web & UX |
+| **Gestion & Projets CFPS** | Remplacement d'Excel par des outils fluides pour colloques et planification. | Strapi CMS & Automation |
+| **Portfolio Personnel** | Création d'une identité numérique forte en Néo-brutalisme. | React / Next.js |
+
+---
+
+## ⚙️ Stack & Outils
+**Développement :** HTML5, CSS3, JavaScript, React, Next.js, Node.js.  
+**Écosystème :** WordPress, Strapi, Netlify, GitHub, Zapier (No-code).
+
+---
+
+## 📊 Statistiques du Lab
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRLLab&layout=compact&theme=visual_studio_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GRLLab&show_icons=true&theme=tokyonight&border_color=000000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRLLab&layout=compact&theme=tokyonight&border_color=000000" />
 </p>
 
 ---
 
-### 🚀 Projets Clés
-*Découvrez ci-dessous mes derniers travaux épinglés. Chaque dépôt est une solution documentée et prête à l'emploi.*
+## 🤝 Me Contacter
+🔗 **[Voir mon Portfolio Complet](https://grllabportfolio.netlify.app)**  
+📍 Basé sur l'efficacité et la clarté.
 
 ---
-
-### 🌐 Portfolio & Contact
-🔗 **[Visiter le portfolio complet](https://grllabportfolio.netlify.app)**
-📫 Me contacter : [cliquer ici](rojaslefebvre.guillaume@gmail.com)
-
-> *Le digital est un outil, l'usage est la priorité.*
