@@ -72,7 +72,7 @@
   <br>
   <img src="assets/fait-avec.svg" height="28" alt="Fait avec passion" />
   &nbsp;&nbsp;
-  <img src="assets/optimisé-par.svg" height="28" alt="Optimisé par IA" />
+  <img src="assets/optimise-par.svg" height="28" alt="Optimisé par IA" />
   <br><br>
   <sub>
     <b>GRLLab</b> © 2026 — Designé avec soin par un artisan, propulsé par l'intelligence artificielle.
