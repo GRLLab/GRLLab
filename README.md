@@ -66,9 +66,15 @@
 <a href="https://www.linkedin.com/in/guillaume-r-l/"><img src="https://img.shields.io/badge/-LINKEDIN-000?style=for-the-badge&labelColor=F7A5C2" /></a>
 </p>
 
+---
+
 <p align="center">
   <br>
-  <img src="URL_DE_TON_IMAGE_FAIT_AVEC.svg" height="45" alt="Fait avec passion" />
+  <img src="assets/fait-avec.svg" height="28" alt="Fait avec passion" />
   &nbsp;&nbsp;
-  <img src="URL_DE_TON_IMAGE_OPTIMISE_IA.svg" height="45" alt="Optimisé par IA" />
+  <img src="assets/optimisé-par.svg" height="28" alt="Optimisé par IA" />
+  <br><br>
+  <sub>
+    <b>GRLLab</b> © 2026 — Designé avec soin par un artisan, propulsé par l'intelligence artificielle.
+  </sub>
 </p>
