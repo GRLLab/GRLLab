@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/liQYN7j.png" width="100%" style="border-radius: 15px;" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Regular&size=22&pause=1000&color=F4D738&center=true&vbg=0D1117&width=500&lines=%F0%9F%A7%AA+GRLLab+--+Syst%C3%A8me+Initialis%C3%A9;%E2%9C%A8+Cr%C3%A9ativit%C3%A9+en+cours...;%F0%9F%9B%A0%EF%B8%8F+Artisan+Num%C3%A9rique" alt="Typing SVG" />
-  </a>
+  <img src="https://i.imgur.com/IlzzmV8.png" width="1000" style="display: block; border-radius: 15px 15px 0 0;" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=40&duration=2000&pause=500&color=F4D738&center=true&vCenter=true&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Initialisation+syst%C3%A8me...;Syst%C3%A8me+d%C3%A9marr%C3%A9+!+%E2%9C%94%EF%B8%8F;Bienvenue+!+%F0%9F%91%8B" alt="Typing SVG" /></a><img src="https://i.imgur.com/Oaux2Rz.png" width="1000" style="display: block; border-radius: 0 0 15px 15px;" />
 </p>
 
 ### 🎨 Mon ADN Créatif
